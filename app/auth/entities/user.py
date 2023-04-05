@@ -1,5 +1,5 @@
 from uuid import UUID, uuid4
-from typing import List, Optional, Union, Any
+from typing import Optional, Union, Any
 from app.auth.value_objects.email import Email
 from app.auth.value_objects.password import Password
 
